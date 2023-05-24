@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Kubernetes,SQLite**
 
-- ** I’m also intrested in **Data science,Opencv,devOps**
+- I’m also intrested in **Data Science, OpenCV, DevOps**
 
-- 💬 Ask me about **Android developing,Java**
+- 💬 Ask me about **Android Programming, Java**
 
-- 📫 How to reach me **Shashidhar.i.0119@gmail.com**
+- 📫 How to reach me **shashidhar.i.0119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
