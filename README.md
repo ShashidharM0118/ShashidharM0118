@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Unigo Calculator](https://ggithub.com/ShashidharM0118/Calcy)
 
-- 🌱 I’m currently learning **Kubernetes,SQLite**
+- 🌱 I’m currently learning **C++,SQLite**
 
 - I’m also intrested in **Data Science, OpenCV, DevOps**
 
