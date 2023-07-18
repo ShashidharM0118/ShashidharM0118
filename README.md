@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharm0118&label=Profile%20views&color=0e75b6&style=flat" alt="shashidharm0118" /> </p>
 
-- 🔭 I’m currently working on [Unigo Calculator](https://ggithub.com/ShashidharM0118/Calcy)
 
 - 🌱 I’m currently learning **C++,SQLite**
 
