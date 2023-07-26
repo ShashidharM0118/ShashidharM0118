@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashidhar B M</h1>
-<h3 align="center">A passionate Android developer,</h3>
+<h3 align="center">A passionate App developer,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharm0118&label=Profile%20views&color=0e75b6&style=flat" alt="shashidharm0118" /> </p>
 
@@ -8,7 +8,7 @@
 
 - I’m also intrested in **Data Science, OpenCV, DevOps**
 
-- 💬 Ask me about **Android Programming, Java**
+- 💬 Ask me about **App Programming, java,kotlin,flutter**
 
 - 📫 How to reach me **shashidhar.i.0119@gmail.com**
 
