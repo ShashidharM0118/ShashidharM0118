@@ -8,7 +8,7 @@
 
 - I’m also intrested in **Data Science, DevOps**
 
-- 💬 Ask me about **App development with Java, Kotlin, and Flutter**
+- 💬 Ask me about **App development with Java and Flutter**
 
 - 📫 How to reach me **shashidhar.i.0119@gmail.com**
 
