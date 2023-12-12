@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashidhar B M</h1>
-<h3 align="center">A passionate Web developer ,</h3>
+<!-- <h3 align="center">A passionate Web developer ,</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashidharm0118&label=Profile%20views&color=0e75b6&style=flat" alt="shashidharm0118" /> </p>
 
 
 - 🌱 I’m currently learning *C++ and DSA*
-
-- I’m also intrested in **Data Science, DevOps**
 
 - 💬 Ask me about **App development with Java and Flutter**
 
