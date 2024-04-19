@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *C++ and DSA*
 
-- 💬 Ask me about **App development with Java and Flutter**
+- 💬 Ask me about **Full stack web development ,App development with Java and Flutter**
 
 - 📫 How to reach me **shashidhar.i.0119@gmail.com**
 
