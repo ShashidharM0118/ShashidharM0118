@@ -4,7 +4,6 @@
 </div>
 
 ## 🎓 About Me
--  Shashidhar B M
 - Computer Science Engineering at BMS College of Engineering
 - **Passionate Web Developer | Compitative Programmer | Open Source Enthusiast**
 
