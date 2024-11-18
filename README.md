@@ -7,10 +7,6 @@
 - Computer Science Engineering at BMS College of Engineering
 - **Passionate Web Developer | Compitative Programmer | Open Source Enthusiast**
 
-<div align="">
-  <img src="https://komarev.com/ghpvc/?username=shashidharm0118&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
-
 ## 🚀 Skills Breakdown
 ### 💻 Programming Languages
 <p align="">
